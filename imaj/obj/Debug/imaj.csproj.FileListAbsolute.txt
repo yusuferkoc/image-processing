@@ -1,0 +1,10 @@
+C:\Users\yusuf\Desktop\4s\SGİ\imaj\imaj\obj\Debug\imaj.csprojAssemblyReference.cache
+C:\Users\yusuf\Desktop\4s\SGİ\imaj\imaj\obj\Debug\imaj.Form1.resources
+C:\Users\yusuf\Desktop\4s\SGİ\imaj\imaj\obj\Debug\imaj.Properties.Resources.resources
+C:\Users\yusuf\Desktop\4s\SGİ\imaj\imaj\obj\Debug\imaj.csproj.GenerateResource.cache
+C:\Users\yusuf\Desktop\4s\SGİ\imaj\imaj\obj\Debug\imaj.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\4s\SGİ\imaj\imaj\bin\Debug\imaj.exe.config
+C:\Users\yusuf\Desktop\4s\SGİ\imaj\imaj\bin\Debug\imaj.exe
+C:\Users\yusuf\Desktop\4s\SGİ\imaj\imaj\bin\Debug\imaj.pdb
+C:\Users\yusuf\Desktop\4s\SGİ\imaj\imaj\obj\Debug\imaj.exe
+C:\Users\yusuf\Desktop\4s\SGİ\imaj\imaj\obj\Debug\imaj.pdb
