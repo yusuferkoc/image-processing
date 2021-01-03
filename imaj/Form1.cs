@@ -418,5 +418,15 @@ namespace imaj
                 pictureBox2.Image = ed;
             }
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog sfd = new SaveFileDialog();
+            sfd.Filter= "resimler(*.jpg,*.png,*.bmp)|*.jpg;*.png;*.bmp";
+            if(DialogResult.OK == sfd.ShowDialog())
+            {
+                this.pictureBox2.Image.Save(sfd.FileName, ImageFormat.Jpeg);
+            }
+        }
     }
 }
